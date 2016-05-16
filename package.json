@@ -22,5 +22,7 @@
       }
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "language-lua": "^0.9.4"
+  }
 }
